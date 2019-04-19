@@ -40,13 +40,13 @@ The following is a copy of PurpleBooth
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/cad0p/Money/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](../../tags). 
 
 ## Authors
 
 * **Pier Carlo Cadoppi** - *Initial work*
 
-See also the list of [contributors](../contributors) who participated in this project.
+See also the list of [contributors](../../contributors) who participated in this project.
 
 ## License
 
