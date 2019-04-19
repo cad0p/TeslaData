@@ -8,7 +8,7 @@ A matlab script to generate a cool graph to visualize and predict consumption da
 
 Based on this I created a calculator [on Desmos](https://www.desmos.com/calculator/nnccaofdub) to show the optimal cruising speed, interpolating data for higher speeds. (it's about 165 kph / 100 mph)
 
-###Preview of the Desmos Calculator for optimal cruising speed:
+### Preview of the Desmos Calculator for optimal cruising speed:
 
 ![Desmos Calculator for optimal cruising speed](desmos-graph.png)
 
