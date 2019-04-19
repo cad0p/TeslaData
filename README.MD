@@ -4,13 +4,13 @@ A year ago I happened to stumble on interesting data about Tesla vehicles consum
 
 A matlab script to generate a cool graph to visualize and predict consumption data.
 
-! [Tesla Model S 100D Consumption](TeslaS100DConsumption.png)
+![Tesla Model S 100D Consumption](TeslaS100DConsumption.png)
 
 Based on this I created a calculator [on Desmos](https://www.desmos.com/calculator/nnccaofdub) to show the optimal cruising speed, interpolating data for higher speeds. (it's about 165 kph / 100 mph)
 
 ###Preview of the Desmos Calculator for optimal cruising speed:
 
-! [Desmos Calculator for optimal cruising speed](desmos-graph.png)
+![Desmos Calculator for optimal cruising speed](desmos-graph.png)
 
 
 ## Getting Started
